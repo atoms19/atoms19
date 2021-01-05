@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there 👋
+I am atoms19 aka atomicwave (in SL ) 
+### what do I do?
+I make CSS frameworks and js libraries for everyone
+### skills 
+js html css
+
+
+
+
+
 
 <!--
 **atoms19/atoms19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
