@@ -7,7 +7,7 @@ is learning web development for fun
 <li>dominity.js v4(DOM library)</li>
 <li>ilus.css v6(UI library)</li>
 </ul>
-
+<br><br>
 <h3>what am I good at</h3>
 <ul>
 <li>html,CSS,js</li>
@@ -16,10 +16,7 @@ is learning web development for fun
 <blockquote>
  I am currently trying to learn firebase and backend development
 </blockquote>
-
-<h3>ask me about<h3>
-<p>ask me about anything I'll tell you if I can </p>
-
+<br><br>
 <h3>contacts</h3>
 <p>idk why anyone would want to reach me :P 
 if you really want to reach me then come to sololearn I'll be there (atomic wave/atoms)
