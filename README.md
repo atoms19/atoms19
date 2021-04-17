@@ -1,7 +1,7 @@
 <H1 align=center >atoms19</H1>
 hello I am atoms19 mostly known as atomic wave in sololearn I am a 15yr old guy who
 is learning web development for fun 
-
+<hr>
 <h3>ongoing projects</h3>
 <ul>
 <li>dominity.js v4(DOM library)</li>
@@ -14,22 +14,19 @@ is learning web development for fun
 <li>python</li>
 </ul>
 <blockquote>
-hello world
+ I am currently trying to learn firebase and backend development
 </blockquote>
 
+<h3>ask me about<h3>
+<p>ask me about anything I'll tell you if I can </p>
+
+<h3>contacts</h3>
+<p>idk why anyone would want to reach me :P 
+if you really want to reach me then come to sololearn I'll be there (atomic wave/atoms)
+<blockquote>sorry I won't put my email here👀</blockquote>
+</p>
+
+<h5 align="center">gimme a follow if you like my work</h5>
 
 
-<!--
-**atoms19/atoms19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
