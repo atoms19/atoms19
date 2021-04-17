@@ -1,12 +1,21 @@
-### Hello there 👋
-I am atoms19 aka atomicwave (in SL ) 
-### what do I do?
-I make CSS frameworks and js libraries for everyone
-### skills 
-js html css
+<H1 align=center >atoms19</H1>
+hello I am atoms19 mostly known as atomic wave in sololearn I am a 15yr old guy who
+is learning web development for fun 
 
+<h3>ongoing projects</h3>
+<ul>
+<li>dominity.js v4(DOM library)</li>
+<li>ilus.css v6(UI library)</li>
+</ul>
 
-
+<h3>what am I good at</h3>
+<ul>
+<li>html,CSS,js</li>
+<li>python</li>
+</ul>
+<blockquote>
+hello world
+</blockquote>
 
 
 
