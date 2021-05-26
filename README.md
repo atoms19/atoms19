@@ -13,6 +13,13 @@ is learning web development for fun </p>
 <li>html,CSS,js</li>
 <li>python</li>
 </ul>
+
+<p align="left">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atoms19&theme=dar" >
+
+</p>
+
 <blockquote>
  I am currently trying to learn firebase and backend development
 </blockquote>
