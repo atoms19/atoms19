@@ -20,14 +20,17 @@ is learning web development for fun </p>
 
 </p>
 
-<blockquote>
- I am currently trying to learn firebase and backend development
-</blockquote>
+
+<h3>what am i doing now</h3>
+<p>currently i am taking a break from coding to focus on my studies , I'll probably resume coding after my 12th when i get into an engineering collage
+ <blockquote>hopefully thing's will workout🤞</blockquote>
+ </p>
+
 <br>
 <h3>contacts</h3>
 <p>idk why anyone would want to reach me :P 
-if you really want to reach me then come to sololearn I'll be there (atomic wave/atoms)
-<blockquote>sorry I won't put my email here👀</blockquote>
+but if you do email me 
+<blockquote>atomicwave19@gmail.com</blockquote>
 </p>
 <br><br>
 <h5 align="center">gimme a follow if you like my work</h5>
