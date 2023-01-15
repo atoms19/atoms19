@@ -1,5 +1,5 @@
 <H1 align=center >atoms19</H1>
-<p align=center >hello I am atoms19 mostly known as atomic wave in sololearn I am a 15yr old guy who
+<p align=center >hello I am atoms19 mostly known as atomic wave in sololearn I am a 17yr old guy who
 is learning web development for fun </p>
 <hr>
 <h3>ongoing projects</h3>
