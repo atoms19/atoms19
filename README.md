@@ -11,9 +11,9 @@
 
 <h3>my skills</h3>
 <p align="center">
- 
-    <img src="https://skillicons.dev/icons?i="html,css,javascript,svelte,python" />
- 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
 <ul>
 <li>html,CSS,js</li>
