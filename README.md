@@ -1,17 +1,19 @@
 <H1 align=center >atoms19</H1>
-<p align=center >hello I am atoms19 mostly known as atomic wave in sololearn I am a 17yr old guy who
-is learning web development for fun </p>
+<p align=center >hello I am atoms19 , a 18yr old frontend webdeveloper and ui designer</p>
 <hr>
 <h3>ongoing projects</h3>
 <ul>
-<li>dominity.js v4(DOM library)</li>
+<li>anilook(anime site)</li>
+<li>viscord(discord like messaging app)</li>
 <li>ilus.css v6(UI library)</li>
 </ul>
 <br>
-<h3>what am I good at</h3>
+
+<h3>my skills</h3>
 <ul>
 <li>html,CSS,js</li>
 <li>python</li>
+<li>sveltekit</li>
 </ul>
 
 <p align="left">
@@ -21,16 +23,11 @@ is learning web development for fun </p>
 </p>
 
 
-<h3>what am i doing now</h3>
-<p>currently i am taking a break from coding to focus on my studies , I'll probably resume coding after my 12th when i get into an engineering collage
- <blockquote>hopefully thing's will workout🤞</blockquote>
- </p>
-
 <br>
 <h3>contacts</h3>
-<p>idk why anyone would want to reach me :P 
-but if you do email me 
+<p>reach me :P 
 <blockquote>atomicwave19@gmail.com</blockquote>
+
 </p>
 <br><br>
 <h5 align="center">gimme a follow if you like my work</h5>
