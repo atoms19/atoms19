@@ -10,6 +10,11 @@
 <br>
 
 <h3>my skills</h3>
+<p align="center">
+ 
+    <img src="https://skillicons.dev/icons?i="html,css,javascript,svelte,python" />
+ 
+</p>
 <ul>
 <li>html,CSS,js</li>
 <li>python</li>
