@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=svelte,tailwind,html,css,javascript,python,nodejs" />
   </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,vue,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,vue,bootstrap,bulma,vscode,github" />
   </a>
 </p>
 <ul>
