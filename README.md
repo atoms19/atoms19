@@ -11,10 +11,10 @@
 
 <h3>tech stack :P</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=svelte,tailwind,html,css,javascript,python,nodejs" />
   </a>
-<a href="https://skillicons.dev">
+<a href="#">
     <img src="https://skillicons.dev/icons?i=mysql,firebase,vue,figma,express,vscode,github" />
   </a>
 </p>
