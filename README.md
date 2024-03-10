@@ -18,11 +18,7 @@
     <img src="https://skillicons.dev/icons?i=mysql,firebase,vue,figma,express,vscode,github" />
   </a>
 </p>
-<ul>
-<li>html,CSS,js</li>
-<li>python</li>
-<li>sveltekit</li>
-</ul>
+
 
 <p align="left">
 
