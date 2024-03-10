@@ -9,10 +9,13 @@
 </ul>
 <br>
 
-<h3>my skills</h3>
+<h3>tech stack :P</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=svelte,tailwind,html,css,javascript,python,nodejs" />
+  </a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,socket" />
   </a>
 </p>
 <ul>
