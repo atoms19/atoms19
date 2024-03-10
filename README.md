@@ -1,5 +1,5 @@
 <H1 align=center >atoms19</H1>
-<p align=center >hello I am atoms19 , a 18yr old frontend webdeveloper and ui designer</p>
+<p align=center >hello I am atoms19 , an 18yr old frontend webdeveloper and ui designer</p>
 <hr>
 <h3>ongoing projects</h3>
 <ul>
