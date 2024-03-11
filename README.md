@@ -23,7 +23,7 @@
 </p>
 
 <h3>github stats</h3>
-<p align="center">
+<p align="left">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=atoms19&theme=transparent&title_color=8c77d1" >
 
