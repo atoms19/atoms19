@@ -1,4 +1,4 @@
-<H1 align=center >atoms19</H1>
+ <H1 align=center >atoms19</H1>
 <p align=center >hello I am atoms19 , an 18yr old frontend webdeveloper and ui designer</p>
 <hr>
 <h3>ongoing projects</h3>
@@ -25,7 +25,7 @@
 <h3>github stats</h3>
 <p align="left">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atoms19&theme=dar" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atoms19&theme=dark" >
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atoms19&show_icons=true&theme=dracula)](https://github.com/atoms19/)
 
