@@ -29,7 +29,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atoms19&show_icons=true&theme=transparent&title_color=8c77d1)](https://github.com/atoms19/)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atoms19&layout=compact&theme=dracula)
 </p>
 
 
