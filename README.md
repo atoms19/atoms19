@@ -17,6 +17,9 @@
 <a href="#">
     <img src="https://skillicons.dev/icons?i=mysql,firebase,vue,figma,express,vscode,github" />
   </a>
+<a href="#">
+    <img src="https://skillicons.dev/icons?i=vercel,bootstrap,java,eclipse" />
+  </a>
 </p>
 
 
