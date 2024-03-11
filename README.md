@@ -38,6 +38,8 @@
 
 [![discord](https://img.shields.io/badge/discord-E4405F?style=for-the-badge&logo=discoed&logoColor=white)](https://discord.com)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/grusomename)
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=social&logo=discord&logoColor=%23fff&label=discord&labelColor=%23fff&color=%236c66d1">
+
 </p>
 <br><br>
 <h5 align="center">gimme a follow if you like my work</h5>
