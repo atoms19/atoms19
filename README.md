@@ -23,11 +23,11 @@
 </p>
 
 <h3>github stats</h3>
-<p align="left">
+<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atoms19&theme=transparent" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atoms19&theme=transparent&title_color=#8c77d1" >
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atoms19&show_icons=true&theme=transparent)](https://github.com/atoms19/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atoms19&show_icons=true&theme=transparent&title_color=#8c77d1)](https://github.com/atoms19/)
 
 
 </p>
