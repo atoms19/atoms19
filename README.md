@@ -35,6 +35,9 @@
 <p>reach me :P 
 <blockquote>atomicwave19@gmail.com</blockquote>
 
+
+[![discord](https://img.shields.io/badge/discord-E4405F?style=for-the-badge&logo=discoed&logoColor=white)](https://discord.com)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/grusomename)
 </p>
 <br><br>
 <h5 align="center">gimme a follow if you like my work</h5>
