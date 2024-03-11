@@ -25,9 +25,9 @@
 <h3>github stats</h3>
 <p align="left">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atoms19&theme=synthwave" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atoms19&theme=transparent" >
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atoms19&show_icons=true&theme=synthwave)](https://github.com/atoms19/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atoms19&show_icons=true&theme=transparent)](https://github.com/atoms19/)
 
 
 </p>
