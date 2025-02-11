@@ -13,7 +13,7 @@
 <h3>tech stack :P</h3>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,javascript,nextjs,typescript," />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,tailwind,vercel,postgres,typescript" />
   </a>
 <a href="#">
     <img src="https://skillicons.dev/icons?i=mysql,firebase,vue,figma,express,vscode,github" />
