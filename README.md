@@ -20,7 +20,7 @@
   </a>
 <a href="#">
   <br>
-    <img src="https://skillicons.dev/icons?i=bash,c,assembly,python,java" />
+    <img src="https://skillicons.dev/icons?i=bash,c,python,java,fedora" />
   </a>
 </p>
 
