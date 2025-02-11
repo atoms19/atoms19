@@ -23,6 +23,9 @@
     <img src="https://skillicons.dev/icons?i=c,bash,python,java,mysql,mongodb,linux" />
   </a>
 </p>
+<h4>tools</h4>
+<img src="https://skillicons.dev/icons?i=vscode,arch" />
+
 
 <h3>github stats</h3>
 <p align="left">
