@@ -16,10 +16,10 @@
     <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,tailwind,vercel,postgres,typescript" />
   </a>
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,hono,vite,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,vite,bootstrap" />
   </a>
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=reactnative" />
+    <img src="https://skillicons.dev/icons?i=expo" />
   </a>
 </p>
 
