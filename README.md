@@ -24,7 +24,7 @@
   </a>
 </p>
 <h4>tools</h4>
-<img src="https://skillicons.dev/icons?i=vscode,arch" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,arch,debian,vim" />
 
 
 <h3>github stats</h3>
