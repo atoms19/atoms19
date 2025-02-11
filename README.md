@@ -1,12 +1,13 @@
- <H1 align=center >atoms19</H1>
+<H1 align=center >atoms19</H1>
 <p align=center >hello I am atoms19 , an 18yr old frontend webdeveloper and ui designer</p>
 <hr>
-<h3>ongoing projects</h3>
+<h3>ongoing public projects</h3>
 <ul>
-<li>anilook(anime site)</li>
-<li>viscord(discord like messaging app)</li>
-<li>ilus.css v6(UI library)</li>
+<li>aw calendar (a daily planner pwa)</li>
+<li>dominity js(minimal js framework)</li>
+<li>ilus components(UI component library)</li>
 </ul>
+
 <br>
 
 <h3>tech stack :P</h3>
@@ -25,7 +26,7 @@
 <h3>github stats</h3>
 <p align="left">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atoms19&theme=transparent&title_color=8c77d1" >
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=atoms19&theme=transparent&title_color=8c77d1" >-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atoms19&show_icons=true&theme=transparent&title_color=8c77d1)](https://github.com/atoms19/)
 
