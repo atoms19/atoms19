@@ -19,7 +19,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,vite,bootstrap" />
   </a>
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=expo" />
+  <br>
+    <img src="https://skillicons.dev/icons?i=bash,c,assembly,python,java" />
   </a>
 </p>
 
