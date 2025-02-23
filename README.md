@@ -33,8 +33,9 @@
 <h3>contacts</h3>
 <p>reach me :P 
 <blockquote>atomicwave19@gmail.com</blockquote>
-
-
+<blockquote>
+vishalvdevan@gmail.com
+</blockquote>
 </p>
 <br><br>
 <h5 align="center">gimme a follow if you like my work</h5>
