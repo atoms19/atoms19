@@ -3,7 +3,8 @@
 <hr>
 <h3>ongoing public projects</h3>
 <ul>
-<li>aw calendar (a daily planner pwa)</li>
+<li>create-smota-app (fullstack project scaffold)</li>
+<li>Dserver (backend framework for dominity)</li>
 <li>dominity js(minimal js framework)</li>
 <li>ilus components(UI component library)</li>
 </ul>
@@ -22,18 +23,10 @@
   <br>
     <img src="https://skillicons.dev/icons?i=c,bash,python,java,mysql,mongodb,linux" />
   </a>
+
+(each row is a diff techstack, last one is miscellaneous)
 </p>
 
-
-<h3>github stats</h3>
-<p align="left">
-
-<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=atoms19&theme=transparent&title_color=8c77d1" >-->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atoms19&show_icons=true&theme=transparent&title_color=8c77d1)](https://github.com/atoms19/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atoms19&layout=compact&theme=synthwave&bg_color=00000000)
-</p>
 
 
 <br>
