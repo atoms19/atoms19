@@ -1,5 +1,5 @@
 <H1 align=center >atoms19</H1>
-<p align=center >hello I am atoms19 , an 18yr old frontend webdeveloper and ui designer</p>
+<p align=center >hello I am atoms19 , an 19yr old frontend webdeveloper and ui designer</p>
 <hr>
 <h3>ongoing public projects</h3>
 <ul>
@@ -11,10 +11,18 @@
 
 <br>
 
+
+
 <h3>tech stack :P</h3>
+my goto techstack is prolly nextjs and postgres with some orm like drizzle tailwind for styling <br>
+when i feeel like doing backend work i use nest and postgres maybe even mongo <br><br>
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,tailwind,vercel,postgres,typescript" />
+ <a href="#">
+      <img src="https://skillicons.dev/icons?i=nextjs,nest,postgres,docker,tailwind"/>
+</a> 
+</p>
+<!--   <a href="#">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nest,svelte,tailwind,vercel,postgres,typescript" />
   </a>
 <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,vite,bootstrap" />
@@ -22,11 +30,25 @@
 <a href="#">
   <br>
     <img src="https://skillicons.dev/icons?i=c,bash,python,java,mysql,mongodb,linux" />
-  </a>
+  </a> -->
+<br>
+<h3>tools and stuff :P</h3>
 
-(each row is a diff techstack, last one is miscellaneous)
+i use fedora workstation as my main OS , and vscode as my main IDE with vim keybindings <br>
+i use arch as a hobby os,i use it ocassionally to work on c projects or to escape from distractions <br>
+windows is my backup os, i go there sometimes when i see some software that isnt supported on linux
+<p align="center">
+ <a href="#">
+      <img src="https://skillicons.dev/icons?i=linux,vscode,bash,python,arch"/>
+</a>
 </p>
+<br>
 
+<h3>blog blog</h3>
+i do write lots in my blog do check it out
+<a href="https://dev.to/atoms19">
+visit blog
+</a>
 
 
 <br>
