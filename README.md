@@ -1,5 +1,5 @@
 <H1 align=center >atoms19</H1>
-<p align=center >hello I am atoms19 , an 19yr old frontend webdeveloper and ui designer</p>
+<p align=center >hello I am atoms19 , a 19yr old frontend webdeveloper and ui designer</p>
 <hr>
 <h3>ongoing public projects</h3>
 <ul>
@@ -14,8 +14,8 @@
 
 
 <h3>tech stack :P</h3>
-my goto techstack is prolly nextjs and postgres with some orm like drizzle tailwind for styling <br>
-when i feeel like doing backend work i use nest and postgres maybe even mongo <br><br>
+my goto techstack is prolly nextjs and postgres with some orm like drizzle, tailwind for styling <br>
+when i make seperate backends, i use nest , postgres/mongo and pack em up in docker containers<br><br>
 <p align="center">
  <a href="#">
       <img src="https://skillicons.dev/icons?i=nextjs,nest,postgres,docker,tailwind"/>
@@ -34,22 +34,29 @@ when i feeel like doing backend work i use nest and postgres maybe even mongo <b
 <br>
 <h3>tools and stuff :P</h3>
 
-i use fedora workstation as my main OS , and vscode as my main IDE with vim keybindings <br>
-i use arch as a hobby os,i use it ocassionally to work on c projects or to escape from distractions <br>
-windows is my backup os, i go there sometimes when i see some software that isnt supported on linux
+i use fedora workstation as my main OS
+I use a tripple booted dell laptop , keeps windows as backup and arch (mainly for testing)
+
+for coding i use vscode with vim bindings
+(haven't transitioned to vim entirely yet)
+I don't use ai much to code but I keep it like an advisor to look up docs and give me suggestions (I like to think and write code myself)
+ I use tmux and vim with no much configs and plugins for daily note editing
+
+as for physical setup I usually code with a very bad posture lying in bed somewhere with my laptop and a 60% wired mechanical keyboard (I forgot to buy a mouse so my workflow is kinda fully keyboard now)
+
 <p align="center">
  <a href="#">
-      <img src="https://skillicons.dev/icons?i=linux,vscode,bash,python,arch"/>
+      <img src="https://skillicons.dev/icons?i=linux,vscode,bash,vim,arch"/>
 </a>
 </p>
 <br>
 
 <h3>blog blog</h3>
 i do write lots in my blog do check it out
+you could find stuff like algorithms , technical stuff there
 <a href="https://dev.to/atoms19">
 visit blog
 </a>
-
 
 <br>
 <h3>contacts</h3>
