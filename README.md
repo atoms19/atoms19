@@ -34,20 +34,13 @@ when i make seperate backends, i use nest , postgres/mongo and pack em up in doc
 <br>
 <h3>tools and stuff :P</h3>
 
-I use fedora workstation as my main OS.
-I tripple booted my dell laptop , keeps windows as backup and arch (mainly for testing)
-
-for coding I use vscode with vim bindings
-(haven't transitioned to vim entirely yet),
-I don't use AI much to code but I keep it like an advisor to ask for advice and give me suggestions (I like to think and write code myself).
-
-I use tmux and vim with no much configs and plugins for daily note editing, average terminal stuff 
+I use arch linux as my main OS, i love a minimal setup as for text editor i use vim 
 <br>
 as for physical setup I usually code with a very bad posture lying in bed somewhere with my laptop and a 60% wired mechanical keyboard (I forgot to buy a mouse so my workflow is kinda fully keyboard now)
 
 <p align="center">
  <a href="#">
-      <img src="https://skillicons.dev/icons?i=linux,vscode,bash,vim,arch"/>
+      <img src="https://skillicons.dev/icons?i=linux,bash,vim,arch"/>
 </a>
 </p>
 <br>
